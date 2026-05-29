@@ -1,10 +1,10 @@
 # clean.md
 
-Дата запуска: `2026-05-27T15:40:56`
+Дата запуска: `*`
 
-Папка скрипта: `C:\Users\maken\Desktop\22123\test`
+Папка скрипта: `C:\Users\maken\Desktop\vkr`
 
-Проверенная папка: `C:\Users\maken\Desktop\22123\test`
+Проверенная папка: `C:\Users\maken\Desktop\vkr`
 
 Порог сходства: `90%`
 
